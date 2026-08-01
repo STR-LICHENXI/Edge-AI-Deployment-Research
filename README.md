@@ -22,4 +22,9 @@ Instead of uploading gigabytes of training datasets, this repository serves as a
 * sample_picture1.jpg & sample_picture2.jpg: Visual proof of the YOLOv8n model successfully identifying "healthy" and "unhealthy" chickens.
 * my_model_OE_3_3_1.onnx: The PyTorch model successfully exported to the ONNX intermediate format.
 * stai_network.c & stai_network.h: The absolute core of this project. This is the neural network mathematically translated into C-language arrays and pointers by the ST Edge AI Core toolchain.
-* network_atonbuf.xSPI2.raw
+* network_atonbuf.xSPI2.raw: The final binary memory file ready to be flashed into the external XSPI Flash of the STM32N6.
+
+---
+
+> ### Author's Declaration
+> The conceptual framework and dataset were provided by the supervising professor. The software engineering, model training, debugging, and ONNX conversion were carried out by the author and owner of this GitHub repository, with reference to relevant technical documentation and development resources.
