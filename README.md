@@ -4,7 +4,7 @@ A research project focused on training a lightweight computer vision model and e
 
 ## Background
 
-After building several computer-based AI vision projects (like the Virtual Violin in my other repositories), I realized a major limitation: they all relied on my computer’s CPU. For real-world interactions and applications, I definitely needed dedicated hardware. Coincidentally, I had the opportunity to connect with a professor specializing in the embedded systems field. 
+After building several computer-based AI vision projects (like the Virtual Violin in my other repositories), I realized a major limitation: they all relied on my computer’s CPU. For real-world interactions and applications, I definitely needed dedicated hardware. Coincidentally, I had the opportunity to connect with a brilliant professor who is specialized in the embedded systems field. 
 
 To convince him that I was capable of handling professional-level projects, I spent a lot of time studying neural network fundamentals and the hardware features of the STM32N657. He then provided me with a guideline on how to deploy models to the STM32N6570-DK, along with a labeled dataset of 7,600+ images to train a custom computer vision model using YOLO. 
 
